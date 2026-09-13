@@ -1,7 +1,8 @@
 # 🎓 College Admission Management System
 
 ![Company Logo](https://github.com/princesaini05/College-Admission-Management-System-Python-Project/blob/051d7b96e8e69f015c9c7c70d82d5f4e3635a2ed/College%20Admission%20Management%20System.png)
-](https://github.com/princesaini05/College-Admission-Management-System-Python-Project/blob/575e98bd68f8b8ac2997d8c8f109130c516052f5/College%20Admission%20Management%20System.png)
+
+
 A desktop-based **College Admission Management System** built with **Python, Tkinter, MySQL, PyMySQL, and bcrypt**. The application provides separate workflows for students, administrators, and super administrators to manage the college admission process efficiently.
 
 ## ✨ Features
