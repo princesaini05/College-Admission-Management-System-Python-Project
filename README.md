@@ -1,5 +1,7 @@
 # 🎓 College Admission Management System
 
+![Company Logo](https://github.com/princesaini05/Mama-s-Coffee-Cafe-Expansion-SQL-Project/blob/75cbfe79f1596622d5593ebaacfeffebf47655fc/Mama's%20coffe%20Expansion%20Analysis%20with%20SQL.png)
+
 A desktop-based **College Admission Management System** built with **Python, Tkinter, MySQL, PyMySQL, and bcrypt**. The application provides separate workflows for students, administrators, and super administrators to manage the college admission process efficiently.
 
 ## ✨ Features
