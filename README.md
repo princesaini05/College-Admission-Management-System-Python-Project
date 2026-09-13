@@ -42,7 +42,6 @@ A desktop-based **College Admission Management System** built with **Python, Tki
 - **Python**
 - **Tkinter**
 - **MySQL**
-- **PyMySQL**
 
 ## 🗄️ Database
 
